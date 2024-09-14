@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3737cc
 - 👀 I'm interested in games and photography
-- 🌱 I'm learning astrophotography and c++ and python related knowledge
+- 🌱 I'm learning c++ and python related knowledge
 - 💞️ I hope any kind of cooperation is OK
 - 📫 Contact information:fenghao3737@proton.me
 - 😄 Pronouns: 3737 won't be hungry
